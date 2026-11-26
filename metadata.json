@@ -1,0 +1,6 @@
+{
+  "name": "TRACT Contabilidade — Cartão Digital de Natal 3D",
+  "description": "Cartão digital de Natal 3D interativo oficial da TRACT Contabilidade com envelope realista, jornada em montanha-russa por vórtice natalino, sala decorada e mensagem especial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
